@@ -19,7 +19,7 @@ This project demonstrates backend development skills including database relation
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/erdem-akin/study-tracker-api.git](https://github.com/erdem-akin/study-tracker-api.git)
+  git clone https://github.com/erdem-akin/study-tracker-api.git
 2. Install dependencies:
    pip install -r requirements.txt
 3. Run the server:
