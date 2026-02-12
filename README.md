@@ -10,10 +10,10 @@ This project demonstrates backend development skills including database relation
 * **Validation:** Pydantic Schemas
 
 ##  Features
-* ✅ **User Management:** Register new students.
-* ✅ **Course Tracking:** Add courses to specific users.
-* ✅ **Grade System:** Log exam scores for each course.
-* ✅ **Clean Architecture:** Separated models, database connection, and API logic.
+*  **User Management:** Register new students.
+*  **Course Tracking:** Add courses to specific users.
+*  **Grade System:** Log exam scores for each course.
+*  **Clean Architecture:** Separated models, database connection, and API logic.
 
 ##  Installation
 
