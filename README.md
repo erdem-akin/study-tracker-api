@@ -1,21 +1,21 @@
-# 📚 StudyTracker API
+# StudyTracker API
 
 A robust RESTful API built with **FastAPI** to help students track their courses and grades.
 This project demonstrates backend development skills including database relationships, CRUD operations, and clean architecture.
 
-## 🚀 Tech Stack
+## Tech Stack
 * **Language:** Python 3.14
 * **Framework:** FastAPI
 * **Database:** SQLite & SQLAlchemy (ORM)
 * **Validation:** Pydantic Schemas
 
-## ⚡ Features
+##  Features
 * ✅ **User Management:** Register new students.
 * ✅ **Course Tracking:** Add courses to specific users.
 * ✅ **Grade System:** Log exam scores for each course.
 * ✅ **Clean Architecture:** Separated models, database connection, and API logic.
 
-## 🛠️ Installation
+##  Installation
 
 1. **Clone the repository:**
    ```bash
